@@ -7,23 +7,11 @@
 # 
 # 
 
-# In[4]:
-
 
 # Importing the necessary libraries
 import pandas as pd
 import numpy as np
 
 
-# In[5]:
-
-
 # Printing the hello capstone
 print('Hello Capstone Project Course!')
-
-
-# In[ ]:
-
-
-
-
